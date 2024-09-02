@@ -1,0 +1,20 @@
+
+
+## Project Description
+
+This repository contains the solution for the **Phase 3 Code Challenge**. It demonstrates fundamental Python concepts and tasks to assess the understanding of core programming principles. 
+
+### Tasks Implemented
+
+1. (TASK1)add_numbers: A function to return the sum of two numbers.
+2. (TASK2) is_even: A function to determine if a given number is even.
+3.(TASK3) reverse_string: A function to reverse a given string.
+4. (TASK4)count_vowels: A function to count the number of vowels in a string, ignoring case sensitivity.
+5. (TASK5)calculate_factorial: A function to compute the factorial of a non-negative integer.
+6. (TASK6)apply_decorator: A function that applies a decorator to print a message before executing the original function.
+7. (TASK7)sort_by_age: A function to sort a list of tuples by age in ascending order.
+8. (TASK8)merge_dicts: A function to merge two dictionaries, summing values for common keys.
+9. (TASK9)Car Class: A class representing a car with attributes for make, model, and year, and a method to display car information.
+
+Each task is implemented in a separate script, allowing for independent execution and testing of each function or class.
+
